@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="1536"
+    android:viewportHeight="1536">
+
+    <!-- Dark navy background -->
+    <path
+        android:fillColor="#061A55"
+        android:pathData="M0,0 L1536,0 L1536,1536 L0,1536 Z" />
+
+    <!-- Cyan outer border -->
+    <path
+        android:fillColor="#0A8FFF"
+        android:pathData="M0,0 L1536,0 L1536,1536 L0,1536 Z" />
+
+    <!-- Inner navy area -->
+    <path
+        android:fillColor="#061A55"
+        android:pathData="M18,18 L1518,18 L1518,1518 L18,1518 Z" />
+
+    <!-- I -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M161,573 L162,877 L265,877 L264,574 Z" />
+
+    <!-- D -->
+    <path
+        android:fillColor="#08D9FF"
+        android:pathData="M304,575 L306,877 L471,877 L523,871 L571,854 L615,818 L643,759 L645,705 L627,651 L592,612 L551,590 L499,578 Z" />
+
+    <!-- W -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M618,577 L738,878 L822,878 L888,721 L954,875 L1038,876 L1157,582 L1033,652 L989,760 L919,580 L861,578 L786,760 L714,578 Z" />
+
+    <!-- P -->
+    <path
+        android:fillColor="#08D9FF"
+        android:pathData="M1420,614 L1384,589 L1351,580 L1191,577 L1138,701 L1139,879 L1236,879 L1237,796 L1355,793 L1386,783 L1410,767 L1437,729 L1445,692 L1441,652 Z" />
+
+    <!-- Main cyan swoosh -->
+    <path
+        android:fillColor="#08D9FF"
+        android:pathData="M1115,430 L1105,405 L1088,385 L1039,358 L972,346 L877,350 L762,375 L648,415 L532,469 L418,535 L554,469 L699,417 L818,392 L914,391 L953,399 L995,417 L1021,438 L1039,466 L1045,488 L1042,531 L1032,560 L1002,611 L1062,553 L1094,511 L1111,475 Z" />
+
+    <!-- White upper swoosh/person -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M1371,268 L1319,336 L1260,378 L1205,397 L1130,395 L1139,421 L1139,446 L1115,509 L1065,574 L981,655 L1120,571 L1247,467 L1307,401 L1339,355 L1361,309 Z" />
+
+    <!-- Graduation cap -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M1290,258 L1194,231 L1107,280 L1144,296 L1127,357 L1142,360 L1148,296 L1164,300 L1179,285 L1209,275 L1247,286 Z" />
+
+    <!-- Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M1203,292 L1176,310 L1170,342 L1190,370 L1222,375 L1249,355 L1254,325 L1237,299 Z" />
+
+</vector>
